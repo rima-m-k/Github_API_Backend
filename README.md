@@ -1,4 +1,4 @@
-# Github API- for Autonomize AI interview
+# Github API- for Autonomize AI tech round
 
 ## Stack
 - NodeJs
@@ -6,7 +6,10 @@
 - TypeScript
 - MongoDB
 
-## Features
+## What is this repo?
+This repository serves as the backend for github api project.
+
+## What I've implemented
 - Implemented architecture following the MVC pattern.
 - Enabled sorting of user data.
 - Identified friends(all the users where users mutually follow each other).
